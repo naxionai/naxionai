@@ -17,7 +17,7 @@
 
 > 💡 **The Core Philosophy:** We break down the barriers of traditional corporate firms. By uniting diverse freelance experts under one roof, we provide clients with a seamless, cost-effective, one‑stop ecosystem for cutting-edge development.
 >
-> 🌱 *“Munhu munhu muvanhu”* — **UBUNTU** (I am because we are).
+> 🌱 *“Munhu munhu muvanhu”* — **UBUNTU** (I am because we are/A person is a person through other persons.).
 
 <br>
 
@@ -104,3 +104,10 @@ Whether you want to build a product, join our network, or optimize your current 
 <p align="right">
   <sub>Proudly Assembled with Nature🌿</sub>
 </p>
+
+<!-- Proudly Assambled with Nature -->
+
+<!---
+naxionai/naxionai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
