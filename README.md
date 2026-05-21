@@ -2,7 +2,7 @@
 ### Freelance | Innovation Hub | Graphic Design | Web Dev | Software Dev | Under the umbrella of Variety & Co.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=100&multiline=true&width=600&height=100&lines=Welcome+%7C+Bienvenu+%7C+Mauya;We+Are+NaxionAI+Freelancers;Empowering+innovation+thru+AI,+tech,+'n+creative+freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=100&multiline=true&width=600&height=100&lines=Welcome+%7C+Mauya+%7C+Karibu+%7C+Wamukelekile;Nous+sommes+%7C+We+Are+NaxionAI+Freelancers;Empowering+innovation+thru+AI,+tech,+'n+creative+freelancing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -71,7 +71,9 @@ Our collective adapts seamlessly to any client-preferred tech stack. Our core to
 *   **The Short‑Term:** Rapid, affordable deployment of websites, ML MVPs, and technical troubleshooting for startups, small-to-medium enterprises (SMEs), and individuals.
 *   **The Long‑Term:** Evolving into Africa’s premier freelance marketplace—pioneering decentralized technical collaboration, creative branding networks, and highly scalable AI products.
 
-**Why Clients Choose NaxionAI:**
+<br>
+
+### <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="20"> Why Clients Choose NaxionAI:
 *   **Agility & Flexibility:** Scale talent up or down based exactly on project needs.
 *   **Cross-Disciplinary Power:** Access software engineers, data scientists, and hardware specialists under a single contract.
 *   **Uncompromising Standard:** Driven strictly by consistency, hard work, and technical discipline.
@@ -87,6 +89,8 @@ Whether you want to build a product, join our network, or optimize your current 
 *   **Direct Inquiry:** <a href="mailto:support.varietyvault@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="22" align="center"/></a>
 *   **Professional Network:** <a href="https://www.linkedin.com/company/naxionai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" align="center"/></a>
 *   **Variety Vault & Co. Portfolio:** <a href="https://linktr.ee/marknature" target="_blank"><img src="https://img.shields.io/badge/Website-333333?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" height="22" align="center"/></a>
+
+<br>
 
 <!--- Image --->
 <div align="center">
