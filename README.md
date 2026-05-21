@@ -102,5 +102,5 @@ Whether you want to build a product, join our network, or optimize your current 
 </p>
 
 <p align="right">
-  <sub>Proudly Assembled with Nature - @marknature 🌿</sub>
+  <sub>Proudly Assembled with Nature🌿</sub>
 </p>
