@@ -35,6 +35,13 @@ We bridge the gap between academic precision and commercial scalability.
 
 <br>
 
+<!--- Image --->
+<div id="header" align="center">
+    <img src="assets/imgs.jpeg" alt="Machine Learning" width="525">
+</div>
+
+<br>
+
 ### 🚀 Technologies & Frameworks
 
 Our collective adapts seamlessly to any client-preferred tech stack. Our core toolkit includes:
